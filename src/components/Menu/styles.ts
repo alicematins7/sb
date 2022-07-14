@@ -27,6 +27,6 @@ export const Cabecalho = styled.header`
 
               }
             }
-        }  
-    }
+          }  
+      }
 `

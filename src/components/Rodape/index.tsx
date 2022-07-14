@@ -4,7 +4,7 @@ import * as S from "./styles";
 
  const Rodape = () => {
      return (
-         <S.rodape>
+         <S.Rodape>
              <div className="content"> 
                  <a href="https://facebook.com" target ="_blank" rel="noreferrer">
                      <BsFacebook />
@@ -20,4 +20,4 @@ import * as S from "./styles";
      );
  };
 
- export default Rodape
+ export default Rodape;
