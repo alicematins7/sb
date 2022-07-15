@@ -1,4 +1,4 @@
-import sytled from "styled-components"
+import styled from "styled-components"
 import { colors } from "styles/GlobalStyle"
 
 export const Cabecalho = styled.header`

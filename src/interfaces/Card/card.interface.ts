@@ -1,4 +1,4 @@
-export interface Icard {
+export interface ICard {
     dados: {
         id: number,
         nome: string,

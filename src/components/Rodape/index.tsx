@@ -1,5 +1,5 @@
 import React from "react";
-import { BsFacebook, BsInstagram, BsLinkdin } from "react-icons/bs";
+import { BsFacebook, BsInstagram, BsLinkedin } from "react-icons/bs";
 import * as S from "./styles";
 
  const Rodape = () => {
@@ -13,7 +13,7 @@ import * as S from "./styles";
                      <BsInstagram />
                  </a>
                  <a href="https://linkedin.com"  target= "_blank" rel="noreferrer">
-                     <BsLinkdin />
+                     <BsLinkedin />
                  </a>
              </div>
          </S.Rodape>

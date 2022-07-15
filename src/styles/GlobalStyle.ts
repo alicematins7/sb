@@ -14,7 +14,7 @@ export default createGlobalStyle`
     secondary: "#7e57c2",
     third:"#ffb74d",
     thirdLight: "#ffe9ca",
-    whike:"#ffffff",
+    white:"#ffffff",
     black: "#000000",
   }
   
